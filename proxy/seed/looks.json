@@ -1,0 +1,62 @@
+{
+  "u_ana": [
+    {
+      "look_id": "look_ana_2",
+      "garment_ids": [
+        "w_ana_3"
+      ],
+      "description": "Blazer preto para o trabalho",
+      "tryon_image": "tryons/u_ana/w_ana_3.jpg",
+      "created_at": "2026-11-04T09:00:00Z"
+    },
+    {
+      "look_id": "look_ana_1",
+      "garment_ids": [
+        "w_ana_1"
+      ],
+      "description": "Calça jeans do dia a dia",
+      "tryon_image": "tryons/u_ana/w_ana_1.jpg",
+      "created_at": "2026-11-01T14:00:00Z"
+    }
+  ],
+  "u_bruno": [
+    {
+      "look_id": "look_bruno_2",
+      "garment_ids": [
+        "w_bruno_4"
+      ],
+      "description": "Camisa jeans para um happy hour",
+      "tryon_image": "tryons/u_bruno/w_bruno_4.jpg",
+      "created_at": "2026-11-06T19:00:00Z"
+    },
+    {
+      "look_id": "look_bruno_1",
+      "garment_ids": [
+        "w_bruno_2"
+      ],
+      "description": "Polo verde de fim de semana",
+      "tryon_image": "tryons/u_bruno/w_bruno_2.jpg",
+      "created_at": "2026-11-02T18:30:00Z"
+    }
+  ],
+  "u_carla": [
+    {
+      "look_id": "look_carla_1",
+      "garment_ids": [
+        "w_carla_1"
+      ],
+      "description": "Vestido estampado para um brunch",
+      "tryon_image": "tryons/u_carla/w_carla_1.jpg",
+      "created_at": "2026-11-08T11:15:00Z"
+    },
+    {
+      "look_id": "look_carla_2",
+      "garment_ids": [
+        "w_carla_4"
+      ],
+      "description": "Cardigan off-white no escritório",
+      "tryon_image": "tryons/u_carla/w_carla_4.jpg",
+      "created_at": "2026-11-03T10:00:00Z"
+    }
+  ]
+}

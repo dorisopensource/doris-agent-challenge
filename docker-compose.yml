@@ -1,0 +1,21 @@
+services:
+  proxy:
+    build: ./proxy
+    ports: ["3000:3000"]
+    environment:
+      AGENT_URL: http://agent:8000
+      IMAGES_DIR: /seed-images
+      DB_PATH: /data/proxy.db
+    volumes:
+      - ./seed-images:/seed-images:ro
+      - proxy-data:/data
+    depends_on: [agent]
+
+  agent:
+    build: ./agent
+    env_file: .env
+    environment:
+      PROXY_URL: http://proxy:3000
+
+volumes:
+  proxy-data: {}

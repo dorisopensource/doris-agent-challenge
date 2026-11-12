@@ -1,0 +1,181 @@
+{
+  "u_ana": [
+    {
+      "garment_id": "w_ana_1",
+      "type": "BOTTOM",
+      "category": "jeans",
+      "ghost_image": "garments/w_ana_1.jpg",
+      "tags": [
+        "calca",
+        "jeans",
+        "azul"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_ana_2",
+      "type": "TOP",
+      "category": "tshirt",
+      "ghost_image": "garments/w_ana_2.jpg",
+      "tags": [
+        "camiseta",
+        "branca"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_ana_3",
+      "type": "TOP",
+      "category": "blazer",
+      "ghost_image": "garments/w_ana_3.jpg",
+      "tags": [
+        "blazer",
+        "preto"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_ana_4",
+      "type": "TOP",
+      "category": "sweater",
+      "ghost_image": "garments/w_ana_4.jpg",
+      "tags": [
+        "trico",
+        "gola alta",
+        "cinza"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_ana_5",
+      "type": "BOTTOM",
+      "category": "skirt",
+      "ghost_image": "garments/w_ana_5.jpg",
+      "tags": [
+        "saia",
+        "midi",
+        "bege"
+      ],
+      "metadata": {}
+    }
+  ],
+  "u_bruno": [
+    {
+      "garment_id": "w_bruno_1",
+      "type": "BOTTOM",
+      "category": "trousers",
+      "ghost_image": "garments/w_bruno_1.jpg",
+      "tags": [
+        "calca",
+        "chino",
+        "bege"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_bruno_2",
+      "type": "TOP",
+      "category": "polo",
+      "ghost_image": "garments/w_bruno_2.jpg",
+      "tags": [
+        "polo",
+        "verde"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_bruno_3",
+      "type": "TOP",
+      "category": "tshirt",
+      "ghost_image": "garments/w_bruno_3.jpg",
+      "tags": [
+        "camiseta",
+        "cinza"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_bruno_4",
+      "type": "TOP",
+      "category": "shirt",
+      "ghost_image": "garments/w_bruno_4.jpg",
+      "tags": [
+        "camisa",
+        "jeans",
+        "azul"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_bruno_5",
+      "type": "TOP",
+      "category": "sweatshirt",
+      "ghost_image": "garments/w_bruno_5.jpg",
+      "tags": [
+        "moletom",
+        "preto"
+      ],
+      "metadata": {}
+    }
+  ],
+  "u_carla": [
+    {
+      "garment_id": "w_carla_1",
+      "type": "DRESS",
+      "category": "dress",
+      "ghost_image": "garments/w_carla_1.jpg",
+      "tags": [
+        "vestido",
+        "estampado",
+        "colorido"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_carla_2",
+      "type": "TOP",
+      "category": "tshirt",
+      "ghost_image": "garments/w_carla_2.jpg",
+      "tags": [
+        "blusa",
+        "verde"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_carla_3",
+      "type": "BOTTOM",
+      "category": "skirt",
+      "ghost_image": "garments/w_carla_3.jpg",
+      "tags": [
+        "saia",
+        "curta",
+        "preta"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_carla_4",
+      "type": "TOP",
+      "category": "cardigan",
+      "ghost_image": "garments/w_carla_4.jpg",
+      "tags": [
+        "cardigan",
+        "off-white"
+      ],
+      "metadata": {}
+    },
+    {
+      "garment_id": "w_carla_5",
+      "type": "BOTTOM",
+      "category": "trousers",
+      "ghost_image": "garments/w_carla_5.jpg",
+      "tags": [
+        "calca",
+        "pantalona",
+        "branca"
+      ],
+      "metadata": {}
+    }
+  ]
+}
